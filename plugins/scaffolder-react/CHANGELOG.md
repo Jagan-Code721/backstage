@@ -1,5 +1,13 @@
 # @backstage/plugin-scaffolder-react
 
+## 1.14.4-next.2
+
+### Patch Changes
+
+- 656f67b: Reverted the validation in dependencies in scaffolder
+- a35118f: build(deps): bump `immer` from 8.0.4 to 9.0.6
+- 1283f06: Added missing `ajv` and `immer` dependencies to `@backstage/plugin-scaffolder-react`
+
 ## 1.14.4-next.1
 
 ### Patch Changes
